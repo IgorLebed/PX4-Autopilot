@@ -60,6 +60,7 @@ px4_add_romfs_files(
 	1034_rascal-electric
 	1035_techpod
 	1036_malolo
+	1037_orlan
 	1040_standard_vtol
 	1041_tailsitter
 	1042_tiltrotor
@@ -68,6 +69,7 @@ px4_add_romfs_files(
 	1060_rover
 	1061_r1_rover
 	1062_tf-r1
+	1063_jeep
 	1070_boat
 	3010_quadrotor_x
 	3011_hexarotor_x
@@ -77,4 +79,6 @@ px4_add_romfs_files(
 	6011_typhoon_h480.post
 	6012_typhoon_ctrlalloc
 	6012_typhoon_ctrlalloc.post
+	6013_ral_x6
+	6013_ral_x6.post
 )

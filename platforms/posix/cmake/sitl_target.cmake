@@ -121,8 +121,10 @@ set(models
 	plane_catapult
 	plane_lidar
 	px4vision
+	orlan
 	r1_rover
 	rover
+	jeep
 	shell
 	solo
 	standard_vtol
@@ -131,6 +133,7 @@ set(models
 	techpod
 	tiltrotor
 	typhoon_h480
+	ral_x6
 	uuv_bluerov2_heavy
 	uuv_hippocampus
 )
